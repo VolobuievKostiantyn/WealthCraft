@@ -1,4 +1,5 @@
-🪙 WealthCraft – A Financial Education Game for Android
+## 🪙 WealthCraft
+A Financial Education Game for Android
 
 WealthCraft is an open-source Android game that teaches players the fundamentals of personal finance, investing, and passive income through interactive simulation.
 
